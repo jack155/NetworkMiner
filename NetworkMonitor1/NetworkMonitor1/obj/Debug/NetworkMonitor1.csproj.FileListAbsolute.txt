@@ -1,1 +1,11 @@
 D:\proga\asp\NetworkMonitor\NetworkMonitor1\NetworkMonitor1\bin\Debug\NetworkMonitor1.exe.config
+D:\proga\asp\NetworkMonitor\NetworkMonitor1\NetworkMonitor1\bin\Debug\NetworkMonitor1.exe
+D:\proga\asp\NetworkMonitor\NetworkMonitor1\NetworkMonitor1\bin\Debug\NetworkMonitor1.pdb
+D:\proga\asp\NetworkMonitor\NetworkMonitor1\NetworkMonitor1\obj\Debug\NetworkMonitor1.csprojResolveAssemblyReference.cache
+D:\proga\asp\NetworkMonitor\NetworkMonitor1\NetworkMonitor1\obj\Debug\NetworkMonitor1.Form1.resources
+D:\proga\asp\NetworkMonitor\NetworkMonitor1\NetworkMonitor1\obj\Debug\NetworkMonitor1.Properties.Resources.resources
+D:\proga\asp\NetworkMonitor\NetworkMonitor1\NetworkMonitor1\obj\Debug\NetworkMonitor1.csproj.GenerateResource.Cache
+D:\proga\asp\NetworkMonitor\NetworkMonitor1\NetworkMonitor1\obj\Debug\NetworkMonitor1.exe
+D:\proga\asp\NetworkMonitor\NetworkMonitor1\NetworkMonitor1\obj\Debug\NetworkMonitor1.pdb
+D:\proga\asp\NetworkMonitor\NetworkMonitor1\NetworkMonitor1\bin\Debug\PerformanceCounter.dll
+D:\proga\asp\NetworkMonitor\NetworkMonitor1\NetworkMonitor1\bin\Debug\PerformanceCounter.pdb
